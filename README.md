@@ -128,7 +128,7 @@ pip install -r requirements.txt
 ```
 Create `.env` file
 ```
-google_api=YOUR_GEMINI_API_KEY
+GEMINI_API_KEY=your_api_key
 ```
 Run Application
 ```
