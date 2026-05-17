@@ -134,3 +134,11 @@ Run Application
 ```
 streamlit run main.py
 ```
+
+or Pull the Docker Image directly
+```
+docker pull abhinay1289/agentic-rag:latest
+```
+Run 
+```
+docker run --env-file .env -p 8501:8501 abhinay1289/agentic-rag
