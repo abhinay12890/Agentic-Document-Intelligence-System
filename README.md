@@ -1,9 +1,7 @@
 # 📄 Agentic Document Intelligence System
-An intelligent Document Question Answering System built using LangGraph, LangChain, FAISS, HuggingFace Embeddings, and Gemini 2.5 Flash.
+An intelligent Document Question Answering system built using LangGraph, LangChain, FAISS, HuggingFace Embeddings and Gemini 2.5 Flash LLM.
+This project allows users to upload PDF documents and ask natural language queries. This system dynamically retrieves relevant chunks, evaluates evidence quality and generates grounded answers using an agentic workflow.
 
-This project allows users to upload PDF documents and ask natural language questions.
-The system dynamically retrieves relevant chunks, evaluates evidence quality, and generates grounded answers using an agentic workflow.
---
 ## Streamlit UI
 ![response.png](response.png)
 --
